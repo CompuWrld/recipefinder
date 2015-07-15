@@ -1,6 +1,6 @@
 # recipefinder
 <strong>
-/# The working branch is the only editable push to git
+# The working branch is the only editable push to git
 </strong><br>
 I want to make a recipe app that queries a database of recipes. 
 
