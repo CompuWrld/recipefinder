@@ -1,7 +1,7 @@
 # recipefinder
 <strong>
-The working branch is the only editable push to git
-</strong>
+/# The working branch is the only editable push to git
+</strong><br>
 I want to make a recipe app that queries a database of recipes. 
 
 It would let the user submit and rate recipes, but then also let's you know what you need for the recipe and has a list of stocked items that you have, and what you can make and / or what you need to buy.
