@@ -241,7 +241,7 @@ public class RecipeFinderFragment extends Fragment {
 
             String format = "json";
             String units = "metric";
-            int numDays = 9;
+            int numDays = 15;
 
             try {
                 // Construct the URL for the OpenWeatherMap query
